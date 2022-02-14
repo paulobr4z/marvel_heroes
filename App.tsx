@@ -5,6 +5,7 @@ import { Home } from './src/pages/home';
 import { useFonts } from 'expo-font';
 import AppLoading from 'expo-app-loading';
 import theme from './src/global/styles/theme';
+import { StatusBar } from 'react-native';
 
 export default function App() {
   const [loaded] = useFonts({
@@ -21,6 +22,7 @@ export default function App() {
 
   return (
     <ThemeProvider theme={theme}>
+      <StatusBar barStyle='dark-content' backgroundColor="white" />
       <Home />
     </ThemeProvider>
   );
