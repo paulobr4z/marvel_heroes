@@ -25,11 +25,10 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/captain-america-3.jpg",
-				"./movies/spider-man-homecoming.jpg",
-				"./movies/avengers-3.jpg",
-				"./movies/avengers-4.jpg",
-				"./movies/spider-man-far-from-home.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-homecoming.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-far-from-home.jpg"			
 			]
 		},
 		{
@@ -57,10 +56,10 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/captain-america-3.jpg",
-				"./movies/black-panther.jpg",
-				"./movies/avengers-3.jpg",
-				"./movies/avengers-4.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/black-panther.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg"
 			]
 		},
 		{
@@ -88,16 +87,16 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/iron-man-1.jpg",
-				"./movies/iron-man-2.jpg",
-				"./movies/hulk.jpg",
-				"./movies/avengers-1.jpg",
-				"./movies/iron-man-3.jpg",
-				"./movies/avengers-2.jpg",
-				"./movies/captain-america-3.jpg",
-				"./movies/spider-man-homecoming.jpg",
-				"./movies/avengers-3.jpg",
-				"./movies/avengers-4.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-2.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/hulk.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-1.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-3.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-2.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-3.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-homecoming.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-3.jpg",
+				".https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg"
 			]
 		}
 	],
@@ -127,8 +126,8 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/captain-america-1.jpg",
-				"./movies/avengers-4.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg"
 			]
 		},
 		{
@@ -156,8 +155,8 @@
 				"velocity": 70
 			},
 			"movies": [
-				"./movies/fantastic-four-1.jpg",
-				"./movies/fantastic-four-2.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/fantastic-four-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/fantastic-four-2.jpg"
 			]
 		},
 		{
@@ -215,8 +214,8 @@
 				"velocity": 70
 			},
 			"movies": [
-				"./movies/deadpool-1.jpg",
-				"./movies/deadpool-2.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/deadpool-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/deadpool-2.jpg"
 			]
 		},
 		{
@@ -272,7 +271,7 @@
 				"velocity": 65
 			},
 			"movies": [
-				"./movies/punisher.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/punisher.jpg"
 			]
 		}
 	],
@@ -302,9 +301,9 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/guardians-of-the-galaxy-1.jpg",
-				"./movies/avengers-3.jpg",
-				"./movies/avengers-4.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/guardians-of-the-galaxy-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg"
 			]
 		},
 		{
@@ -332,8 +331,8 @@
 				"velocity": 75
 			},
 			"movies": [
-				"./movies/captain-marvel.jpg",
-				"./movies/guardians-of-the-galaxy-1.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-marvel.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/guardians-of-the-galaxy-1.jpg"
 			]
 		},
 		{
@@ -361,7 +360,7 @@
 				"velocity": 80
 			},
 			"movies": [
-				"./movies/captain-marvel.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-marvel.jpg"
 			]
 		}
 	],
@@ -391,12 +390,12 @@
 				"velocity": 30
 			},
 			"movies": [
-				"./movies/captain-america-1.jpg",
-				"./movies/iron-man-1.jpg",
-				"./movies/iron-man-2.jpg",
-				"./movies/captain-america-2.jpg",
-				"./movies/ant-man.jpg",
-				"./movies/captain-america-3.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-2.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-2.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/ant-man.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/captain-america-3.jpg"
 			]
 		},
 		{
@@ -424,9 +423,9 @@
 				"velocity": 25
 			},
 			"movies": [
-				"./movies/spider-man-1.jpg",
-				"./movies/spider-man-2.jpg",
-				"./movies/spider-man-3.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-2.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-3.jpg"
 			]
 		},
 		{
@@ -454,13 +453,13 @@
 				"velocity": 50
 			},
 			"movies": [
-				"./movies/iron-man-1.jpg",
-				"./movies/iron-man-2.jpg",
-				"./movies/iron-man-3.jpg",
-				"./movies/spider-man-homecoming.jpg",
-				"./movies/avengers-3.jpg",
-				"./movies/avengers-4.jpg",
-				"./movies/spider-man-far-from-home.jpg"
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-1.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-2.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/iron-man-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-homecoming.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-3.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/avengers-4.jpg",
+				"https://raw.githubusercontent.com/paulobr4z/marvel_heroes/master/src/assets/movies/spider-man-far-from-home.jpg"
 			]
 		}
 	]

@@ -3,8 +3,7 @@ import styled from 'styled-components/native';
 export const HomeContainer = styled.SafeAreaView`
   flex: 1;
   background-color: ${({ theme }) => theme.colors.white};
-  padding: 20px 24px;
-  padding-top: 0;
+  padding: 0 0 24px 24px;
 `;
 
 export const TitleContainer = styled.View`
@@ -13,6 +12,10 @@ export const TitleContainer = styled.View`
   width: 100%;
   margin-top: 24px;
   margin-bottom: 32px;
+`;
+
+export const HomeContent = styled.ScrollView`
+  flex: 1;
 `;
 
 export const SubTitle = styled.Text`
@@ -32,7 +35,7 @@ export const TypesCharactersIconContainer = styled.View`
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin-bottom: 48px;
+  margin-bottom: 20px;
 `;
 
 export const TypesCharactersContainer = styled.View`
@@ -60,6 +63,7 @@ export const SeeAll = styled.Text`
   font-family: ${({ theme }) => theme.fonts.profile_subtitle};
   font-size: ${({ theme }) => theme.size.profile_subtitle};
   color: ${({ theme }) => theme.colors.grey};
+  margin-right: 24px;
 `;
 
 export const CharacterContainer = styled.TouchableOpacity`

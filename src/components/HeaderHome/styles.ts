@@ -7,4 +7,5 @@ export const HeaderHomeContainer = styled.View`
   justify-content: space-between;
   height: 64px;
   width: 100%;
+  padding-right: 24px;
 `;
