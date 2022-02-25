@@ -11,7 +11,7 @@
 
 Desafio sugerido pela galera do www.devchallenge.com.br
 
-O desafio seria desafio é criar um aplicativo listando os personagens da Marvel, com suas informações, habilidades e filmes!
+O desafio é criar um aplicativo listando os personagens da Marvel, com suas informações, habilidades e filmes!
 
 https://user-images.githubusercontent.com/52705622/155627099-4fbd947e-ff91-43d3-99a0-76a9f0c1c7da.mp4
 
